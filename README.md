@@ -16,30 +16,29 @@
 
 1.[사진 검색] MainActivity -> PhotoCollectionActivity 
 -------------
+
+   
+
+   
+![image](https://im2.ezgif.com/tmp/ezgif-2-2d0899ea99d9.gif)   
+editTest를 활용하여 검색    
 api 데이터 호출
-   
-
-   
-![image](https://im2.ezgif.com/tmp/ezgif-2-2d0899ea99d9.gif)
-     
-
-
      
 
       
 2.검색기록 저장 PhotoCollectionActivity  
 -------------         
-![image](https://im2.ezgif.com/tmp/ezgif-2-58bc2f74bf22.gif)
+![image](https://im2.ezgif.com/tmp/ezgif-2-58bc2f74bf22.gif)   
 검색어 저장스위치가 체크 되어있을때만 검색어 저장
        
 3.검색기록 삭제,전체삭제  PhotoCollectionActivity  
 -------------          
-![image](https://im2.ezgif.com/tmp/ezgif-2-9cb0b916f2b7.gif)   
+![image](https://im2.ezgif.com/tmp/ezgif-2-9cb0b916f2b7.gif)       
 x아이콘을 누르면 지정삭제 
 전체삭제 아이콘을 누르면 전체삭제가 됩니다
 
 4.실시간 검색  PhotoCollectionActivity  
 -------------  
-![image](https://im2.ezgif.com/tmp/ezgif-2-1b6d2ec85bfb.gif)
+![image](https://im2.ezgif.com/tmp/ezgif-2-1b6d2ec85bfb.gif)    
 rx옵저버블 사용하여 0.8뒤에 이벤트 데이터로 api호출
 
