@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PhotoS</string>
+
+    <string name="search_term_hint">사진검색</string>
+
+</resources>
