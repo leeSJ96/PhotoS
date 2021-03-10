@@ -3,7 +3,7 @@
       
 간단한 unsplash api활용하여 사진검색 하는 앱입니다   
 영상이 아닌 .jpg 로 소개하겠습니다    
-   레트로핏 과rx 공부용 프로젝트입니다
+   레트로핏 과rx 기본기를 배우기위해 공부했던 프로젝트입니다
       
 개발언어 . Kotlin
 개발 프로그램 . Android Studio
@@ -40,5 +40,5 @@ x아이콘을 누르면 검색한 기록 지정삭제
 4.실시간 검색  PhotoCollectionActivity  
 -------------  
 ![image](https://im2.ezgif.com/tmp/ezgif-2-1b6d2ec85bfb.gif)    
-rx옵저버블 사용하여 0.8뒤에 이벤트 데이터로 api가 호출됩니다
+rx옵저버블 사용하여 0.8초 뒤에 이벤트 데이터로 api가 호출됩니다
 
