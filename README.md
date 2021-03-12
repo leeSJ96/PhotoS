@@ -8,7 +8,8 @@
 개발언어 . Kotlin
 개발 프로그램 . Android Studio
      
-라이브러리 . retrofit2, gson , okhttp , glide , rxjava, rxkotlin, rxbinding,coroutines
+라이브러리 . retrofit2, gson , okhttp , glide , rxjava, rxkotlin, rxbinding,coroutines   
+기간개발기간 . 21.01.13 ~21.02.12
         
 레트로핏을 활용하여 unsplash api 호출
 -------------   
