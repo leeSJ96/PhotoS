@@ -3,10 +3,10 @@
       
 간단한 unsplash api활용하여 사진검색 하는 앱입니다   
 영상이 아닌 .jpg 로 소개하겠습니다    
-   레트로핏 과rx 기본기를 배우기위해 공부했던 프로젝트입니다
+   레트로핏 과rx 기본기를 배우기 위해 공부했던 프로젝트입니다   
       
-개발언어 . Kotlin
-개발 프로그램 . Android Studio
+개발 언어 . Kotlin   
+개발 프로그램 . Android Studio   
      
 라이브러리 . retrofit2, gson , okhttp , glide , rxjava, rxkotlin, rxbinding,coroutines   
 기간개발기간 . 21.01.13 ~21.02.12
