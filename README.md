@@ -21,7 +21,7 @@
    
 
    
-![image](https://im2.ezgif.com/tmp/ezgif-2-2d0899ea99d9.gif)   
+![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/74143090/111019081-540df780-8400-11eb-917d-ab4187d04456.gif)   
 editTest를 활용하여 검색버튼을     
 api 데이터 호출 됩니다
      
@@ -29,18 +29,18 @@ api 데이터 호출 됩니다
       
 2.검색기록 저장 PhotoCollectionActivity  
 -------------         
-![image](https://im2.ezgif.com/tmp/ezgif-2-58bc2f74bf22.gif)   
+![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/74143090/111019117-861f5980-8400-11eb-8b1b-dbd4961f7344.gif)   
 
 검색어 저장스위치가 체크 되어있을때만 검색어 저장됩니다
        
 3.검색기록 삭제,전체삭제  PhotoCollectionActivity  
 -------------          
-![image](https://im2.ezgif.com/tmp/ezgif-2-9cb0b916f2b7.gif)       
+![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/74143090/111019156-b8c95200-8400-11eb-8f59-c6f3cad7e605.gif)       
 x아이콘을 누르면 검색한 기록 지정삭제      
 전체삭제 아이콘을 누르면 검색한 기록 전체삭제가 됩니다
 
 4.실시간 검색  PhotoCollectionActivity  
 -------------  
-![image](https://im2.ezgif.com/tmp/ezgif-2-1b6d2ec85bfb.gif)    
+![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/74143090/111019180-e1e9e280-8400-11eb-8228-7e08fc442f8c.gif)    
 rx옵저버블 사용하여 검색 버튼을 누르지 않아도 0.8초 뒤에 이벤트 데이터로 api가 호출됩니다
 
